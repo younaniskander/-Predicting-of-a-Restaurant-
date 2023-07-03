@@ -1,7 +1,8 @@
 
 # 🍽️🌟 Predicting of a Restaurant 🍴🌟
 https://www.kaggle.com/code/younaniskander/predicting-of-a-restaurant
-
+## Using Streamlit to deploy a model
+https://take-it.streamlit.app/
 
 ![image](https://github.com/younaniskander/-Predicting-of-a-Restaurant-/assets/87044703/169c5965-99f7-4dfb-85da-f1d4bbcb0a5c)
 
